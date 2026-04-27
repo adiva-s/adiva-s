@@ -1,6 +1,6 @@
 ## Hi, I'm Adiva 👋
 
-CS grad from NYU Tandon (May '25) currently building my foundation in **data engineering and analytics engineering**. I pivoted from UX/UI, discovered I actually love pipelines and data modeling, and haven't looked back since.
+CS grad from NYU Tandon (May '25) currently building my foundation in data engineering and analytics engineering. I pivoted from UX/UI, discovered I actually love pipelines and data modeling, and haven't looked back since.
 
 Based in New York. I build things, break them, figure out why, and build them better.
 
