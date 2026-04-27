@@ -40,7 +40,7 @@ Chrome extension I built because I needed it. Real-time domain blocking, custom 
 
 ## A bit more about me
 
-- I'm also studying Islamic sciences (Alimiyyah program) alongside tech — balance is the challenge, discipline is the practice
+- I'm also studying Islamic sciences (Alimiyyah program) alongside tech
 - I built FocusLock partly for myself and it genuinely changed how I work
 - I care a lot about building things that are *meaningful*, not just functional
 - Currently targeting junior data/analytics engineering roles — open to conversations
