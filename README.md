@@ -19,7 +19,7 @@ Currently learning → Cloud (GCP/BigQuery) · Airflow
 
 ## Projects worth looking at
 
-### 🕌 [NiyyahTrack](https://github.com/adiva-s/niyyahtrack)
+### 🕌 [NiyyahTracks](https://github.com/adiva-s/niyyahtrack)
 End-to-end analytics pipeline modeling Islamic charitable giving data. Built with PostgreSQL, Python, and dbt — staging + mart layers, custom ENUM types, FK constraints, and business metrics (cost per beneficiary) defined in CTEs. This one I'm actually proud of.
 
 ### 🧙 [Wizarding World Database](https://github.com/adiva-s/hp-wizarding-world-db)
