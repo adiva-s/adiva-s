@@ -25,7 +25,7 @@ End-to-end analytics pipeline modeling Islamic charitable giving data. Built wit
 ### 🧙 [Wizarding World Database](https://github.com/adiva-s/hp-wizarding-world-db)
 Full ETL pipeline and relational schema for Harry Potter universe data — characters, spells, movies, places. One-to-many and many-to-many relationships enforced through junction tables. Analytical SQL queries to explore the dataset.
 
-### 🔒 [FocusLock](https://github.com/adiva-s/focuslock-extension)
+### 🔒 [LockedIn](https://github.com/adiva-s/LockedIn)
 Chrome extension I built because I needed it. Real-time domain blocking, custom timer, streak tracking, and a full stats dashboard. Forces you to commit to a task before you start — and reflect after. Multi-view architecture with state sync across background and content scripts.
 
 ---
@@ -50,7 +50,9 @@ Chrome extension I built because I needed it. Real-time domain blocking, custom 
 ## Let's connect
 
 📧 adiva.siddeky@nyu.edu <br>
-💼 [LinkedIn](https://linkedin.com/in/adiva-siddeky) 
+🌐 [Portfolio](https://adiva-siddeky.netlify.app) <br>
+💼 [LinkedIn](https://linkedin.com/in/adiva-siddeky)
+
 ---
 
 *"Tie your camel, then trust Allah."* — working on both.
