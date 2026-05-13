@@ -9,18 +9,18 @@ Based in New York. I build things, break them, figure out why, and build them be
 ### What I work with
 
 ```
-Languages    →  Python · SQL (PostgreSQL, MySQL) · JavaScript · C++
-Data Stack   →  dbt · PostgreSQL · LlamaIndex · pandas · SQLAlchemy · ETL
-Tools        →  GitHub · pgAdmin · Tableau
-Currently learning → Cloud (GCP/BigQuery) · Airflow
+Languages    →  Python · SQL (PostgreSQL, BigQuery) · JavaScript · C++
+Data Stack   →  dbt · PostgreSQL · BigQuery · Airflow · pandas · SQLAlchemy · ETL
+Tools        →  Docker · GitHub · pgAdmin · Tableau
+Currently learning → Airflow advanced patterns
 ```
 
 ---
 
 ## Projects worth looking at
 
-### 🕌 [NiyyahTracks](https://github.com/adiva-s/niyyahtrack)
-End-to-end analytics pipeline modeling Islamic charitable giving data. Built with PostgreSQL, Python, and dbt — staging + mart layers, custom ENUM types, FK constraints, and business metrics (cost per beneficiary) defined in CTEs. This one I'm actually proud of.
+### 🕌 [NiyyahTracks v2](https://github.com/adiva-s/niyyahtrack)
+End-to-end cloud analytics pipeline for Islamic charitable giving data. Migrated from local PostgreSQL to Google BigQuery — orchestrated with Apache Airflow (Dockerized CeleryExecutor), transformed with dbt-bigquery (staging + mart layers), and validated with dbt tests. Daily automated pipeline: seed → run → test. This one I'm actually proud of.
 
 ### 🧙 [Wizarding World Database](https://github.com/adiva-s/hp-wizarding-world-db)
 Full ETL pipeline and relational schema for Harry Potter universe data — characters, spells, movies, places. One-to-many and many-to-many relationships enforced through junction tables. Analytical SQL queries to explore the dataset.
@@ -32,9 +32,9 @@ Chrome extension I built because I needed it. Real-time domain blocking, custom 
 
 ## What I'm currently working on
 
-- Getting cloud-fluent (BigQuery + GCP) — moving existing projects off local
-- Learning Airflow to make my pipelines actually production-ready
+- Deepening cloud data engineering skills project by project
 - Expanding my data engineering foundation project by project
+- Targeting junior data/analytics engineering roles
 
 ---
 
