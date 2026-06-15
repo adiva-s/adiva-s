@@ -19,6 +19,9 @@ Currently learning → Airflow advanced patterns
 
 ## Projects worth looking at
 
+### 💄 [BlushMetrics](https://github.com/adiva-s/BlushMetrics)
+End-to-end analytics pipeline tracking Google Trends search interest for 7 beauty brands across distinct hype archetypes. Built with Python, BigQuery, and dbt (staging → intermediate → mart layers). Analytical questions: which brands are most popular, and which are gaining or losing momentum? Key finding: Youthforia flatlined at 0 search interest — brand collapse confirmed in the data. Visualized in a Looker Studio dashboard.
+
 ### 🕌 [NiyyahTracks v2](https://github.com/adiva-s/niyyahtrack)
 End-to-end cloud analytics pipeline for Islamic charitable giving data. Migrated from local PostgreSQL to Google BigQuery — orchestrated with Apache Airflow (Dockerized CeleryExecutor), transformed with dbt-bigquery (staging + mart layers), and validated with dbt tests. Daily automated pipeline: seed → run → test. This one I'm actually proud of.
 
